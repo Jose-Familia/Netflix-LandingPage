@@ -42,8 +42,6 @@ jobs:
         with:
           path: |
             index.html
-            Scripts/
-            Styles/
 
       - name: Deploy to GitHub Pages
         id: deployment
